@@ -2,7 +2,7 @@
     "isUpdateAvailable": true,
     "newVersionName": "1.0",
     "updateMessage": "Bug fixes and new features!",
-    "isUpdateForce": false,
+    "isUpdateForce": true,
     "dialogTitle": "New Update Available",
     "updateButtonText": "Update Now",
     "updateUrl": "https://example.com/update"
