@@ -1,10 +1,10 @@
  {
     "isUpdateAvailable": true,
     "newVersionName": "1.0",
-    "updateMessage": "Bug fixes and new features!",
+    "updateMessage": "Maintenance",
     "isUpdateForce": true,
-    "dialogTitle": "New Update Available",
-    "updateButtonText": "Update Now",
+    "dialogTitle": "Server in Maintenace",
+    "updateButtonText": "Close",
     "updateUrl": "https://watchthem.is-best.net/"
 }
 
