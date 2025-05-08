@@ -1,5 +1,9 @@
  {
- "versionCode": "1.0",
- "url": "https://watchthemdownload.000webhostapp.com/",
- "Message": "MAINTENANCE -HOWARD"
- }
+    "isUpdateAvailable": true,
+    "newVersionName": "1.2.0",
+    "updateMessage": "Bug fixes and new features!",
+    "isUpdateForce": false,
+    "dialogTitle": "New Update Available",
+    "updateButtonText": "Update Now",
+    "updateUrl": "https://example.com/update"
+}
