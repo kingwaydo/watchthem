@@ -1,6 +1,6 @@
  {
     "isUpdateAvailable": true,
-    "newVersionName": "1.1",
+    "newVersionName": "1.0",
     "updateMessage": "Bug fixes and new features!",
     "isUpdateForce": true,
     "dialogTitle": "New Update Available",
